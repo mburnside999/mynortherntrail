@@ -7,7 +7,7 @@ public with sharing class MyClass {
 
     public static String sayHello(String name){
 
-        return 'Well hello there its a very nice day today,  '+name;
+        return 'Well there its a very nice day today,  '+name;
 
 
     }
